@@ -1,0 +1,22 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form{
+  border: 1px solid white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow:  #add8e682 0 0 0px 2px,
+   #add8e6 0px 0px 5px 5px,
+   #add8e1 0px 0px 15px 10px,
+   inset #add8e6 0px 0px 0px 2px,
+   inset #add8e6 0px 0px 5px 5px,
+   inset #add8e1 0px 0px 15px 10px;
+  
+}
+form span{
+  color: red;
+}
